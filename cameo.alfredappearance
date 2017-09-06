@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 13,
+        "colorSelected" : "#FFFFFFA7",
+        "font" : "System",
+        "color" : "#FFFFFF4F"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFF9E",
+        "font" : "System",
+        "color" : "#FFFFFF7E"
+      },
+      "backgroundSelected" : "#0000001F",
+      "text" : {
+        "size" : 17,
+        "colorSelected" : "#72FA78FF",
+        "font" : "System",
+        "color" : "#A9A9A9FF"
+      },
+      "iconPaddingHorizontal" : 6,
+      "paddingVertical" : 1,
+      "iconSize" : 27
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#75D5FF00",
+      "spacing" : 5,
+      "text" : {
+        "size" : 40,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#FFFFFFFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#00648074",
+      "paddingHorizontal" : 0,
+      "width" : 573,
+      "borderPadding" : 0,
+      "borderColor" : "#000000FF",
+      "blur" : 40,
+      "roundness" : 3,
+      "paddingVertical" : 0
+    },
+    "credit" : "govind",
+    "separator" : {
+      "color" : "#CD00FFFF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#00000033",
+      "thickness" : 0
+    },
+    "name" : "cameo"
+  }
+}
